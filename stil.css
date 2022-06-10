@@ -1,0 +1,46 @@
+@charset "UTF-8";
+/* CSS Document */
+p{
+	color: orange;
+	font-family: "Arial";
+	font-size: 14px;
+	line-height: 16px;
+}
+
+h2 {
+	color: darkorange;
+	font-family: "Arial";
+	font-size: 20px;
+	line-height: 16px;
+}
+
+h3{
+	color: orangered;
+	font-family: "Arial";
+	font-size: 17px;
+	line-height: 16px;
+}
+
+body {
+	background-color: lightgray;
+}
+
+a:link {
+	color: black;
+}
+
+a:visited {
+	color: darkgray;
+}
+
+a:hover {
+	color: orange;
+}
+
+ul {
+	border: 2px solid #000000
+}
+
+ol {
+	border: 2px solid #000000
+}
